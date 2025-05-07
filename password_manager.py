@@ -18,7 +18,7 @@ def print_banner():
                         Secure-Pass
         A Command Line Python Based Password Manager 
 <<<<<==================================================>>>>>
-                 Made by 0x-Cyber-Lunerr
+                 Made by Code-With-Abdul
                        Version 1.0
 <<<<<==================================================>>>>>
 
